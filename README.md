@@ -1,2 +1,1 @@
-# Hello--World
-Placing Triggers 
+This File Contains Manifest/XML file
